@@ -19,7 +19,7 @@ npm i
 Install the package globally on your machine:
 
 ```
-npm i -g
+npm i -g aj-cli-tool-todo-list
 ```
 
 ## Usage
